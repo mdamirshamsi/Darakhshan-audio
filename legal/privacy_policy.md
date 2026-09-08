@@ -1,3 +1,7 @@
+<style>
+  header, a[href*="Darakhshan-audio"] { display: none !important; }
+</style>
+
 Privacy Policy
 
 BSEB CLASS 10TH URDU LEARNING
